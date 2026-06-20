@@ -1,5 +1,7 @@
 # bestoffer
 
+**Live:** https://bestoffer.100dayaichallenge.com
+
 Turn five facts about your service business into a ready-to-use **offer positioning kit** — ideal customer, core problem, clear offer, homepage headline, CTA, an email sequence, an SMS sequence, and three ad hooks. Written in a clear, direct, human tone, no hype.
 
 bestoffer is **bring-your-own-key**: you paste your own Anthropic API key, it's stored only in your browser, and requests go straight to Anthropic. Nothing touches a server of ours, and there's no sign-up.
